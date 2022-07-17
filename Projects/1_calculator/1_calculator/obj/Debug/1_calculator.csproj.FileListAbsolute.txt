@@ -1,0 +1,11 @@
+C:\Users\Kamil Szkaradek\source\repos\1_calculator\1_calculator\bin\Debug\1_calculator.exe.config
+C:\Users\Kamil Szkaradek\source\repos\1_calculator\1_calculator\bin\Debug\1_calculator.exe
+C:\Users\Kamil Szkaradek\source\repos\1_calculator\1_calculator\bin\Debug\1_calculator.pdb
+C:\Users\Kamil Szkaradek\source\repos\1_calculator\1_calculator\obj\Debug\1_calculator.csproj.AssemblyReference.cache
+C:\Users\Kamil Szkaradek\source\repos\1_calculator\1_calculator\obj\Debug\1_calculator.csproj.SuggestedBindingRedirects.cache
+C:\Users\Kamil Szkaradek\source\repos\1_calculator\1_calculator\obj\Debug\_1_calculator.Form1.resources
+C:\Users\Kamil Szkaradek\source\repos\1_calculator\1_calculator\obj\Debug\_1_calculator.Properties.Resources.resources
+C:\Users\Kamil Szkaradek\source\repos\1_calculator\1_calculator\obj\Debug\1_calculator.csproj.GenerateResource.cache
+C:\Users\Kamil Szkaradek\source\repos\1_calculator\1_calculator\obj\Debug\1_calculator.csproj.CoreCompileInputs.cache
+C:\Users\Kamil Szkaradek\source\repos\1_calculator\1_calculator\obj\Debug\1_calculator.exe
+C:\Users\Kamil Szkaradek\source\repos\1_calculator\1_calculator\obj\Debug\1_calculator.pdb
