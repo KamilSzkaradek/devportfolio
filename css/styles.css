@@ -16,7 +16,8 @@
   display: inline-block;
   
   transition: width .1s;
-     margin: 25px 50px 75px 100px;
+  margin-right: 50px;
+  margin-left: 50px;
 }
 
 
