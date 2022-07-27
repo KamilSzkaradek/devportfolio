@@ -17,8 +17,8 @@
   
   transition: width .1s;
   margin: auto;
-  border: 1px solid black;
-  padding: 30px;
+  border: 1px outset black;
+  padding: 90px;
 }
 
 
