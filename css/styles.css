@@ -16,10 +16,10 @@
   display: inline-block;
   transition: width .1s;
   margin: auto;
-  padding-top: 20px;
-  padding-right: 30px;
+  padding-top: 30px;
+  padding-right: 70px;
   padding-bottom: 10px;
-  padding-left: 30px;
+  padding-left: 70px;
 }
 
 
