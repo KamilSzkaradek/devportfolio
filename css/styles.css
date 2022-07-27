@@ -15,6 +15,7 @@
   width: 86%;
   display: inline-block;
   transition: width .1s;
+  margin-top: 25px;
   margin: auto;
   
 }
