@@ -14,12 +14,9 @@
 .container2 {
   width: 85%;
   display: inline-block;
-  
   transition: width .1s;
   margin: auto;
-  border-width: 1px;
-  border-style: solid;
-  border-color: black;
+  
 }
 
 
