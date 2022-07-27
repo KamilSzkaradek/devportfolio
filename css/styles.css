@@ -16,8 +16,8 @@
   display: inline-block;
   
   transition: width .1s;
-  margin-right: 50px;
-  margin-left: 50px;
+  margin: auto;
+  border: 1px solid black;
   padding: 30px;
 }
 
